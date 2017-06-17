@@ -1,0 +1,11 @@
+Co trzeba:
+
+# http://virtualenvwrapper.readthedocs.io/en/latest/install.html
+
+yum install python-pip
+pip install virtualenv
+pip install virtualenvwrapper
+
+# najlepiej dodać do .bashrc lub .profile
+export WORKON_HOME=~/.virtualenvs
+source /usr/bin/virtualenvwrapper.sh
