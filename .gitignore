@@ -1,3 +1,5 @@
+#to służy do wyłączenia rzeczy, które nie są nam potrzebne:
+
 ns/.**
 jenkins/war/**
 jenkins/plugins/**
